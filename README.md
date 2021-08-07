@@ -16,8 +16,14 @@
   - This model accounts for roughly 70% of the variability in the data according to the Multiple R-sqaured value of 0.7149
   
   ### Summary Statistics on Suspension Coils
-  
+  Total Summary: ![image](https://user-images.githubusercontent.com/40553064/128608815-505e2edd-648e-40e7-8d35-92a5d2bce9c1.png)
+
+  Lot Summary: ![image](https://user-images.githubusercontent.com/40553064/128608822-f06f12da-b765-473c-ac1c-2e6e8335df5e.png)
+
+  As evidenced by the statistical summaries above, the overal production between the plants is within the MechaCar specification of variance less than 100 psi. With additional drilling down, it is shown that lot 3 is NOT within this tolerance. Additional investigation should focus on the process at manufacturing lot 3.
+
   ### T-Tests on Suspension Coils
+  
   
   ### Study Design: MechaCar vs Competition
   
