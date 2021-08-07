@@ -26,15 +26,24 @@
   All Lots: ![image](https://user-images.githubusercontent.com/40553064/128609327-27b06f8f-72f2-48b6-8976-3e2b1de95768.png)
    
    Across all lots, there is not enough variation to result in a statistically significant difference from the population mean of 1500psi
-  Lot1: ![image](https://user-images.githubusercontent.com/40553064/128609287-ee2ee1e4-d3b6-428b-99ae-f34e9c330a44.png) 
+  
+  Lot1: 
+  
+  ![image](https://user-images.githubusercontent.com/40553064/128609287-ee2ee1e4-d3b6-428b-99ae-f34e9c330a44.png) 
     
-    From Lot 1, while there is not enough variation to result in a statistically significant difference from the population mean of 1500psi, the p value = 1, is potentially concerning, as it may indicate deeper issues with the validity of the data.
-  Lot2: ![image](https://user-images.githubusercontent.com/40553064/128609295-771eb8e1-d312-4e86-a41b-0e9ea1728ac0.png) 
+  From Lot 1, while there is not enough variation to result in a statistically significant difference from the population mean of 1500psi, the p value = 1, is potentially concerning, as it may indicate deeper issues with the validity of the data.
+  
+  Lot2: 
+  
+  ![image](https://user-images.githubusercontent.com/40553064/128609295-771eb8e1-d312-4e86-a41b-0e9ea1728ac0.png) 
     
-    From Lot 2, there is not enough variation to result in a statistically significant difference from the population mean of 1500psi.
-  Lot3: ![image](https://user-images.githubusercontent.com/40553064/128609303-79d10ef1-c4be-4989-b053-024e1de3a147.png)
+  From Lot 2, there is not enough variation to result in a statistically significant difference from the population mean of 1500psi.
+  
+  Lot3: 
+  
+  ![image](https://user-images.githubusercontent.com/40553064/128609303-79d10ef1-c4be-4989-b053-024e1de3a147.png)
     
-    From Lot 3, the p-value is < 0.05 , so there is enough variation to result in a statistically significant difference from the population mean of 1500psi.
+  From Lot 3, the p-value is < 0.05 , so there is enough variation to result in a statistically significant difference from the population mean of 1500psi.
   
   ### Study Design: MechaCar vs Competition
   
