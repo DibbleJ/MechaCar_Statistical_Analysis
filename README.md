@@ -47,4 +47,4 @@
   
   ### Study Design: MechaCar vs Competition
   
-## Summary
+  A study to be performed will compare the maintenance costs for the MechaCar vs its competition. The null hypothesis for this test will be "If the maintenance costs for the MechaCar are not less than that of its competition, then there will be the same are greater cost as a result of driving 60 miles a day for a year." As this would be a comparison of the distribution of two different samples, this study would utilize the two-sample t-test. In order to run this statistical test, maintenance costs and mileage information would have to be collected from drivers of cars from different manufacturers. The mileage would allow for standardization of cost/mile rather than cost/time.
